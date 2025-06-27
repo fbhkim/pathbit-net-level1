@@ -1,0 +1,20 @@
+# .NET
+bin/
+obj/
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+logs/
+
+# Docker
+*.log
+*.bak
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
